@@ -1,0 +1,10 @@
+.App {
+  width: 80%;
+  margin: 100px auto 0 auto;
+  text-align: center;
+}
+
+.app-title {
+  width: 100%;
+  text-align: left;
+}
