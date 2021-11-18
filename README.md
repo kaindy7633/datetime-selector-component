@@ -1,4 +1,4 @@
-> 参考：https://github.com/xiejunping/andt-components
+> Note：这是一个基于 React 的日期时间选择器组件
 
 # Getting Started with Create React App
 
