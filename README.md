@@ -1,5 +1,7 @@
 > Note：这是一个基于 React 的日期时间选择器组件
 
+<img src="./datetime-selector-component-show.gif" alt="" />
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
